@@ -4,7 +4,7 @@ Use this template directory to write the coolest paper on the internet.
 
 ## Process 
 
-Begin by using this repository as a template to create a new repository for your paper. 
+Begin by using this repository as a template to create a new private repository for your paper. 
 The new repo is to be created within the ertekin-research-group organization. 
 
 There are four phases: 
