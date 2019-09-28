@@ -25,14 +25,15 @@ First, create a github account for yourself and send me your id so I can invite 
 
 Look at [the guide](https://guides.github.com/), especially [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) and [Hello World](https://guides.github.com/activities/hello-world/).  
 
-Once you have been invited to ertekin-research-group, install the [ZenHub](https://www.zenhub.com/) as a broswer extension. 
+Once you have been invited to ertekin-research-group, install [ZenHub](https://www.zenhub.com/) as a broswer extension. 
 This is free for academic use. 
 
 Go to the papercool repository and click on 'use this template' to create the repository for your paper. 
-Select 'ertekin-research-group' as the owner, and give your repository a descriptive name that indicates the paper author and topic. 
-Make the repository private. 
+Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the paper author and topic. Make the repository private. 
 
 By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
+
+Once the repository is created, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. This should automatically import issues into ZenHub associated with each phase. 
 
 Clone the repo to your local computer and work here together with your review team. Commit your changes often often. Once you are satisfied that the materials are ready for review by me, let me know and I will look them over. 
 
