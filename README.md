@@ -41,6 +41,8 @@ Commit your changes to the working branch often. Once you are satisfied that the
 
 Once you've made the pull request, you (or I) can merge the working branch.  Go to the master branch and click the green 'Merge pull request' button to merge the changes to master and confirm the merge. 
 
+## Template files provided
 
+The example .tex, .bib, and .pdf files included here could be used as a starting point, if you wish.  They need not be used.  The document classs 'achemso' is from the American Chemical Society.  Depending on what journal you are intend to submit your work, you may wish to change this.  It can always be changed later. 
 
 
