@@ -32,16 +32,11 @@ Go to the papercool repository and click on 'use this template' to create the re
 Select 'ertekin-research-group' as the owner, and give your repository a descriptive name that indicates the paper author and topic. 
 Make the repository private. 
 
-By default, this repository has one branch named 'master'. This will be the main branch for your paper that I will look at when you are ready for a formal review by me at the completion of each phases. 
+By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
 
-Click the drop down at the top of the file list that says 'branch: master'. Type the name of a new branch, 'working' into the new branch text box. Select the blue Create branch box or hit “Enter” on your keyboard. This second branch is where you will work as your progress through the phases. 
+Clone the repo to your local computer and work here together with your review team. Commit your changes often often. Once you are satisfied that the materials are ready for review by me, let me know and I will look them over. 
 
-Clone the working branch to your local computer and work here together with your review team. 
-Commit your changes to the working branch often. Once you are satisfied that the maaterial in the working branch is ready for review by me, you can open a pull request to master. Be sure to '@elifleaf' in your pull request message so that I see that you are ready for me to look over your materials and provide feedback. 
-
-Once you've made the pull request, you (or I) can merge the working branch.  Go to the master branch and click the green 'Merge pull request' button to merge the changes to master and confirm the merge. 
-
-## Template files provided and overleaf
+## Template files provided and integration with overleaf
 
 The example .tex, .bib, and .pdf files included here could be used as a starting point, if you wish.  They need not be used.  The document classs 'achemso' is from the American Chemical Society.  Depending on what journal you are intend to submit your work, you may wish to change this.  It can always be changed later. 
 
