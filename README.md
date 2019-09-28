@@ -8,10 +8,10 @@ Begin by using this repository as a template to create a new private repository 
 The new repo is to be created within the ertekin-research-group organization. 
 
 There are four phases: 
-  - identify paper theme, write the abstract, and make the figures. 
-  - outline your paper around the figures. 
-  - fill in the text to make a coherent document 
-  - finalize items required for paper submisssion. 
+  - phase 1: identify paper theme, write the abstract, and make the figures. 
+  - phase 2: outline your paper around the figures. 
+  - phase 3: fill in the text to make a coherent document 
+  - phase 4: finalize items required for paper submisssion. 
   
 The phases are tied to issues, which you should track using ZenHub. 
 
