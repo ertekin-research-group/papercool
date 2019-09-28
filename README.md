@@ -45,6 +45,6 @@ Once you've made the pull request, you (or I) can merge the working branch.  Go 
 
 The example .tex, .bib, and .pdf files included here could be used as a starting point, if you wish.  They need not be used.  The document classs 'achemso' is from the American Chemical Society.  Depending on what journal you are intend to submit your work, you may wish to change this.  It can always be changed later. 
 
-If you want to sync your github repo to overleaf, see [these instructions](https://www.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub,_GitLab_or_BitBucket%3F).
+If you want to sync your github repo to overleaf, see [these instructions](https://www.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub,_GitLab_or_BitBucket%3F).  You may need to [request authorization](https://help.github.com/en/articles/requesting-organization-approval-for-oauth-apps) to import repos from ertekin-research-group. 
 
 
