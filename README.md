@@ -21,31 +21,36 @@ At this point, you can submit the materials to me for review via your repository
 
 ## Step by Step Guide (in case you are new to this process) 
 
-First, create a github account for yourself and send me your id so I can invite you to the ertekin-research-group organization. 
+1) Create a github account for yourself and send me your id so I can invite you to the ertekin-research-group organization. 
 
-Look at [the guide](https://guides.github.com/), especially [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) and [Hello World](https://guides.github.com/activities/hello-world/).  
+2) Look at [the guide](https://guides.github.com/), especially [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) and [Hello World](https://guides.github.com/activities/hello-world/).  
 
-Once you have been invited to ertekin-research-group, install [ZenHub](https://www.zenhub.com/) as a broswer extension. 
+3) Once you have been invited to ertekin-research-group, install [ZenHub](https://www.zenhub.com/) as a broswer extension. 
 This is free for academic use. 
 
-Go to the papercool repository and click on 'use this template' to create the repository for your paper. 
+4) Go to the papercool repository and click on 'use this template' to create the repository for your paper. 
 Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the paper author and topic. Make the repository private. 
 
 By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
 
-Copying a template directory does not have the option to copy over the issues associated with the template directory.  This needs to be done manually.  You can do it using from the command line on your terminal using [gh-misssue](https://github.com/E3V3A/gh-missue), a nice set of ruby scripts that lets you use APIs for this purpose. You have to: 
+5) Copying a template directory does not have the option to copy over the issues associated with the template directory.  This needs to be done manually.  You can do it using from the command line on your terminal using [gh-misssue](https://github.com/E3V3A/gh-missue), a nice set of ruby scripts that lets you use APIs for this purpose. You have to: 
+
 - install the ruby scripts on your local system. Follow the instructions for installing the scripts carefully.  You need to install ruby, docopt, and octokit. 
 - create a github token for yourself: on github, click on your profile, select settings, and then 'Developer Settings'.  Then choose 'generate new token' and under notes give a name to this token such as 'copy over repo issues'.  Select the box for 'repo' for full control of private repositories. Scroll to the bottom and click on generate token.  Keep track of the token you generate. 
 - in your new repo on github, click on 'issues' and then 'labels' and one by one manually delete all the default labels. There should be no labels left. 
 - back to your command line. copy the labels from papercool to your new repo: 
+
 gh-missue/gh-missue.rb  -c your_token_here  ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
+
 - finally, copy the issues from papercool to your new repo (be patient, this seems to be slow): 
+
 gh-missue/gh-missue.rb your_token_here -t open ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
+
 Stuck?  Ask me and I can do it for you once you have created your repo. 
 
-Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. 
+6) Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. 
 
-Clone the repo to your local computer and work here together with your review team. Commit your changes often often. Once you are satisfied that the materials are ready for review by me for each phase, let me know and I will look them over. 
+7) Clone the repo to your local computer and work here together with your review team. Commit your changes often often. Once you are satisfied that the materials are ready for review by me for each phase, let me know and I will look them over. 
 
 ## Template files provided and integration with overleaf
 
