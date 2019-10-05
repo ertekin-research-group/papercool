@@ -29,18 +29,16 @@ At this point, you can submit the materials to me for review via your repository
 This is free for academic use. 
 
 4) Go to the papercool repository and click on 'use this template' to create the repository for your paper. 
-Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the paper author and topic. Make the repository private. 
+Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the paper author and topic. Make the repository private. By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
 
-By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
-
-5) Copying a template directory does not have the option to copy over the issues associated with the template directory.  This needs to be done manually.  You can do it using from the command line on your terminal using [gh-misssue](https://github.com/E3V3A/gh-missue), a nice set of ruby scripts that lets you use APIs for this purpose. You have to: 
+5) Copying a template directory does not have the option to copy over the issues associated with the template directory.  Sadly, this needs to be done manually.  You can do it using from the command line on your terminal using [gh-misssue](https://github.com/E3V3A/gh-missue), a nice set of ruby scripts that lets you use APIs for this purpose. You have to: 
 
 - install the ruby scripts on your local system. Follow the instructions for installing the scripts carefully.  You need to install ruby, docopt, and octokit. 
 - create a github token for yourself: on github, click on your profile, select settings, and then 'Developer Settings'.  Then choose 'generate new token' and under notes give a name to this token such as 'copy over repo issues'.  Select the box for 'repo' for full control of private repositories. Scroll to the bottom and click on generate token.  Keep track of the token you generate. 
 - in your new repo on github, click on 'issues' and then 'labels' and one by one manually delete all the default labels. There should be no labels left. 
 - back to your command line. copy the labels from papercool to your new repo: 
 
-gh-missue/gh-missue.rb  -c your_token_here  ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
+  gh-missue/gh-missue.rb  -c your_token_here  ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
 
 - finally, copy the issues from papercool to your new repo (be patient, this seems to be slow): 
 
