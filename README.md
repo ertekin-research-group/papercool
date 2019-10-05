@@ -29,7 +29,7 @@ At this point, you can submit the materials to me for review via your repository
 This is free for academic use. 
 
 4) Go to the papercool repository and click on 'use this template' to create the repository for your paper. 
-Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the paper author and topic. Make the repository private. By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
+Select 'ertekin-research-group' as the owner, and give your repository a short but descriptive name that indicates the year, paper author, and topic (e.g. 2019-Elif-OnCats). Make the repository private. By default, this repository has one branch named 'master'. This will be the main branch for your paper. 
 
 5) Copying a template directory does not have the option to copy over the issues associated with the template directory.  Sadly, this needs to be done manually.  You can do it using from the command line on your terminal using [gh-misssue](https://github.com/E3V3A/gh-missue), a nice set of ruby scripts that lets you use APIs for this purpose. You have to: 
 
