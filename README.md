@@ -44,3 +44,6 @@ The example .tex, .bib, and .pdf files included here could be used as a starting
 If you want to sync your github repo to overleaf, see [these instructions](https://www.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub,_GitLab_or_BitBucket%3F).  You may need to [request authorization](https://help.github.com/en/articles/requesting-organization-approval-for-oauth-apps) to import repos from ertekin-research-group. 
 
 
+## Why are we doing this? 
+
+I have realized that (i) writing a technical paper is a process, and (ii) the process requires a lot of tacit (meaning understood or implied without being explicitly stated) knowledge. This is my attempt to provide some structure and guidelines for the process, as well as to codify or be explicit about the elements of writing a good paper. 
