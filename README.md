@@ -43,10 +43,12 @@ Select 'ertekin-research-group' as the owner, and give your repository a short b
   - finally, copy the issues from papercool to your new repo (be patient, this seems to be slow): 
 
     gh-missue/gh-missue.rb your_token_here -t open ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
+    
+  - check on github that the issues and labels appear in your new repo 
 
     Stuck?  Ask me and I can do it for you once you have created your repo. Have a better solution?  If so, please let me know. 
 
-6) Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. For eacah pipeline, you can select the settings tab and choose 'sort by milestone', which should make the phases appear roughly in order.  
+6) Once the labels and issues have been copied over, go to your repo on github select the ZenHub tab. Switch your workspace to 'Writing a Cool Paper'. For eacah pipeline, you can select the settings tab and choose 'sort by milestone', which should make the phases appear roughly in order.  
 
 7) Clone the repo to your local computer and work here together with your review team. Commit and push your changes often. Once you are satisfied that the materials are ready for review by me for each phase, let me know and I will look them over. 
 
