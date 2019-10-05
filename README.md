@@ -46,9 +46,9 @@ Select 'ertekin-research-group' as the owner, and give your repository a short b
 
     Stuck?  Ask me and I can do it for you once you have created your repo. Have a better solution?  If so, please let me know. 
 
-6) Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. 
+6) Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. For eacah pipeline, you can select the settings tab and choose 'sort by milestone', which should make the phases appear roughly in order.  
 
-7) Clone the repo to your local computer and work here together with your review team. Commit your changes often often. Once you are satisfied that the materials are ready for review by me for each phase, let me know and I will look them over. 
+7) Clone the repo to your local computer and work here together with your review team. Commit and push your changes often. Once you are satisfied that the materials are ready for review by me for each phase, let me know and I will look them over. 
 
 ## Template files provided and integration with overleaf
 
