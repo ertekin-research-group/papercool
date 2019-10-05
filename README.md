@@ -17,7 +17,7 @@ The phases are tied to issues, which you should track using ZenHub.
 
 For each phase, you will complete the necessary tasks and carry out the required reviews with your review team. 
 You should work with your review team until everyone believes that all the required elements for the phase are in place.  
-At this point, you can submit a pull request for your repository. 
+At this point, you can submit the materials to me for review via your repository. 
 
 ## Step by Step Guide (in case you are new to this process) 
 
