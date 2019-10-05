@@ -42,9 +42,9 @@ Select 'ertekin-research-group' as the owner, and give your repository a short b
 
 - finally, copy the issues from papercool to your new repo (be patient, this seems to be slow): 
 
-gh-missue/gh-missue.rb your_token_here -t open ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
+  gh-missue/gh-missue.rb your_token_here -t open ertekin-research-group/papercool ertekin-research-group/your_new_repo_here 
 
-Stuck?  Ask me and I can do it for you once you have created your repo. 
+  Stuck?  Ask me and I can do it for you once you have created your repo. 
 
 6) Once the labels and issues have been copied over, select the ZenHub tab within it. Switch your workspace to 'Writing a Cool Paper'. 
 
